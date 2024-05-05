@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mosamkikhabar/static/css/main.6a69d1da.css",
+    "main.js": "/mosamkikhabar/static/js/main.5b2e2785.js",
+    "index.html": "/mosamkikhabar/index.html",
+    "main.6a69d1da.css.map": "/mosamkikhabar/static/css/main.6a69d1da.css.map",
+    "main.5b2e2785.js.map": "/mosamkikhabar/static/js/main.5b2e2785.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a69d1da.css",
+    "static/js/main.5b2e2785.js"
+  ]
+}
