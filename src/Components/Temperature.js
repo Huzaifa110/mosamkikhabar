@@ -38,7 +38,7 @@ const Temperature = () => {
 
     useEffect(() => {
         attainInformation();
-    }, [searchValue]);
+    }, [searchValue, attainInformation]);
 
     return (
         <div>
